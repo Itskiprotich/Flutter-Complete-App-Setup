@@ -30,7 +30,7 @@ class _RegisterState extends State<Register> {
         children: <Widget>[
           Image.asset(
             //TODO update this
-            'assets/background.jpg',
+            'assets/home.jpg',
             fit: BoxFit.fill,
             height: double.infinity,
             width: double.infinity,

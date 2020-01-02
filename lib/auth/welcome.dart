@@ -20,7 +20,7 @@ class _SignInOrRegisterState extends State<SignInOrRegister> {
         children: <Widget>[
           Image.asset(
             //TODO update background image according to your brand
-            'assets/background.jpg',
+            'assets/home.jpg',
             fit: BoxFit.fill,
             height: double.infinity,
             width: double.infinity,
